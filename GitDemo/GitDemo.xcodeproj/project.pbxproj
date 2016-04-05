@@ -17,9 +17,6 @@
 		BCFB4C571C80692800604B8A /* GitDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFB4C561C80692800604B8A /* GitDemoUITests.m */; };
 
 		BCFB4C6B1C806FD000604B8A /* ViewControllerB.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFB4C6A1C806FD000604B8A /* ViewControllerB.m */; };
-
-		BCFB4C671C806DC400604B8A /* ViewControllerA.m in Sources */ = {isa = PBXBuildFile; fileRef = BCFB4C661C806DC400604B8A /* ViewControllerA.m */; };
-
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -308,7 +305,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BCFB4C671C806DC400604B8A /* ViewControllerA.m in Sources */,
+
 				BCFB4C391C80692800604B8A /* ViewController.m in Sources */,
 				BCFB4C6B1C806FD000604B8A /* ViewControllerB.m in Sources */,
 				BCFB4C361C80692800604B8A /* AppDelegate.m in Sources */,
